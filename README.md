@@ -1,1 +1,1 @@
-Integer / Hexadecimal / Binary -number converter.
+Integer / Hexadecimal / Binary -number converter with TKInter GUI.
